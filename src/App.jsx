@@ -1,14 +1,10 @@
 import React, { useState, useEffect } from "react";
- 
-
-
+import Converter from "../features/converter/converter";
 
 function App() {
- 
-
   return (
     <div>
-      <h1>hi</h1>
+      <Converter />
     </div>
   );
 }
