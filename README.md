@@ -1,4 +1,4 @@
-React query, Chakra UI, Axios
+React query, Chakra UI, Axios.
 
 https://filip-exchange.netlify.app/
 
